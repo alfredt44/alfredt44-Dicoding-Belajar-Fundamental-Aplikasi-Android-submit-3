@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BFAA Submission 3</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="location">Location: %s </string>
+    <string name="repository">Repository: %s </string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="avatar">Photo</string>
+    <string name="change_language_settings">Change Language</string>
+    <string name="credit">Credit</string>
+    <string name="credit_desc1">Thanks to God for helping me</string>
+    <string name="credit_desc2">Thanks to Dicoding and Bangkit to support us</string>
+    <string name="credit_desc3">Thanks to github to provide the data</string>
+    <string name="favmenu" translatable="false">favmenu</string>
+    <string name="added">Added to Favorite</string>
+    <string name="deleted">Deleted from Favorie</string>
+    <string name="search_github_user">Search Github User :)</string>
+    <string name="favorite">Favorite</string>
+    <string name="no_followerx">This user has no followers</string>
+    <string name="no_following">This user not following anyone</string>
+    <string name="no_favorite">No user favorited</string>
+    <string name="not_found">User not found</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="notification_title">Reminder</string>
+    <string name="notification_content_text">Come on, back to the app</string>
+    <string name="reminder_setup">Reminder Activated</string>
+    <string name="reminder_disabled">Reminder Disabled</string>
+    <string name="key_language">language</string>
+    <string name="language_val">English</string>
+    <string name="change_language">Change Language</string>
+    <string name="setting_notification_title">Reminder</string>
+    <string name="setting_reminder_desc">Remind me at 09:00 to go back to the App</string>
+    <string name="settings">Settings</string>
+    <string name="key_notification">key_notification</string>
+
+</resources>

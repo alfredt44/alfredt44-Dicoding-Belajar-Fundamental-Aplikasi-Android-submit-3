@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ConsummerApp</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="location">Location: %s </string>
+    <string name="repository">Repository: %s </string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="avatar">Photo</string>
+    <string name="change_language_settings">Change Language</string>
+    <string name="credit">Credit</string>
+    <string name="credit_desc1">Thanks to God for helping me</string>
+    <string name="credit_desc2">Thanks to Dicoding and Bangkit to support us</string>
+    <string name="credit_desc3">Thanks to github to provide the data</string>
+    <string name="favmenu" translatable="false">favmenu</string>
+    <string name="added">Added to Favorite</string>
+    <string name="deleted">Deleted from Favorie</string>
+    <string name="search_github_user">Search Github User :)</string>
+    <string name="favorite">Favorite</string>
+</resources>

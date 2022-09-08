@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ConsummerApp</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="name">Nama</string>
+    <string name="location">Lokasi: %s </string>
+    <string name="repository">Repositori: %s </string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="avatar">Foto</string>
+    <string name="change_language_settings">Ganti Bahasa</string>
+    <string name="credit">Kredit</string>
+    <string name="credit_desc1">Thanks kepada Tuhan karena telah membantu</string>
+    <string name="credit_desc2">Thanks kepada Dicoding dan Bangkit untuk tetap support kami</string>
+    <string name="credit_desc3">Thanks kepada github karena telah menyediakan data</string>
+    <string name="added">Ditambahkan Favorite</string>
+    <string name="deleted">Dihapus dari Favorie</string>
+    <string name="search_github_user">Search Github User :)</string>
+    <string name="favorite">Favorit</string>
+</resources>

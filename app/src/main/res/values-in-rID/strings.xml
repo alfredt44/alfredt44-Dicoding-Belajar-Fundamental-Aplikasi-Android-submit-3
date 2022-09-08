@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BFAA Submission 3</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="name">Nama</string>
+    <string name="location">Lokasi: %s </string>
+    <string name="repository">Repositori: %s </string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="avatar">Foto</string>
+    <string name="change_language_settings">Ganti Bahasa</string>
+    <string name="credit">Kredit</string>
+    <string name="credit_desc1">Thanks kepada Tuhan karena telah membantu</string>
+    <string name="credit_desc2">Thanks kepada Dicoding dan Bangkit untuk tetap support kami</string>
+    <string name="credit_desc3">Thanks kepada github karena telah menyediakan data</string>
+    <string name="added">Ditambahkan Favorite</string>
+    <string name="deleted">Dihapus dari Favorie</string>
+    <string name="search_github_user">Search Github User :)</string>
+    <string name="favorite">Favorit</string>
+    <string name="no_followerx">User ini tidak punya pengikut</string>
+    <string name="no_following">User ini tidak mengikuti siapapun</string>
+    <string name="no_favorite">Belum memiliki user favorit</string>
+    <string name="not_found">User tidak ditemukan</string>
+    <string name="notification_title">Pengingat</string>
+    <string name="notification_content_text">Mari kembali ke applikasi</string>
+    <string name="reminder_disabled">Pengingat Dimatikan</string>
+    <string name="key_language">language</string>
+    <string name="language_val">Indonesia</string>
+    <string name="setting_notification_title">Pengingat</string>
+    <string name="setting_reminder_desc">Ingatkan saya pukul 09:00 untuk kembali ke aplikasi</string>
+    <string name="settings">Pengaturan</string>
+    <string name="key_notification">key_notification</string>
+</resources>
